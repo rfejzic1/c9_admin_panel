@@ -12,7 +12,7 @@
     "@toast-ui/vue-editor": "^2.5.1",
     "core-js": "^3.8.1",
     "material-design-icons-iconfont": "^5.0.1",
-    "prismjs": "^1.22.0",
+    "prismjs": "^1.25.0",
     "vue": "^2.6.12",
     "vue-codemirror": "^4.0.6",
     "vue-context": "^6.0.0",
